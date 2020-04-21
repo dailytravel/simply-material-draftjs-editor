@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Screenshoot
 
-[Image](screenshoot.jpg)
+[Image](https://github.com/dailytravel/simply-material-draftjs-editor/blob/master/screenshot.png)
 
 Install packages:
 
